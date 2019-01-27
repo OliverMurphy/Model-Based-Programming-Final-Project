@@ -2,7 +2,7 @@
 Final Project - Winter 2018 ECSE 223 @McGill University
 
 # Project Description:
-  The main goal of the project was to develop an object-oreinted java application to manage a restaurant. We had to handle the following tasks:
+  The main goal of the project was to develop an object-oreinted java application to manage a restaurant. It was performed in teams of 6. We had to handle the following tasks:
   - Create a new table (unique id number)
   - Manage a table (resize, relocate, reserve, remove)
   - Create a menu (items can be removed and added) 
